@@ -1,5 +1,5 @@
 In "minecraft" folder
-*SKlauncher 3-beta.18.2.exe
+* SKlauncher 3-beta.18.2.exe
   : The Launcher of Minecraft
 * cmpack_1.8.8_1.6.1.zip
   : Extract it and copy it to .minecraft\versions
