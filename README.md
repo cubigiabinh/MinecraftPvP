@@ -17,7 +17,4 @@ In "minecraft" folder
   ,Choose versions in Launcher
 * Lunar Client v2.8.4.exe
   : Setup of premium client)
-* "hack" folder
-  : Just click random file .exe and it should run the hack
-  ,(Open Minecraft first)
   * Download : https://mega.nz/file/70hnAA5R#jLvR-JKSeKUJLO517R-Lp0jLwdrN1CtjCCEV_CYoe9E
